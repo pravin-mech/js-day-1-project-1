@@ -1,0 +1,66 @@
+.{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'popping', cursive;
+    background-color: darkgrey;
+
+}
+.line{
+    width: 5px;
+    height: 170px;
+    background-color: #333;
+    margin-left: 295px;
+    margin-top: -20px;
+}
+.trapezoid{
+    border-bottom: 50px solid #111;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    height: 0;
+    width: 125px;
+    border-radius: 50px;
+    margin: 0 0 0 210px;
+
+}
+.main-bulb{
+    height: 200px;
+    width: 200px;
+    background-color: #bbb ;
+    border-radius: 50%;
+    margin: -28px 0 50px 195px;
+}
+.buttons{
+    text-align: center;
+}
+.on-button{
+    text-align: center;
+}
+.on-button{
+    margin-left: 150px;
+}
+.on-button,
+.off-button{
+    width: 120px;
+    height: 40px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: #ff5455;
+    font-size: 30px;
+    color: #f1f1f1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
